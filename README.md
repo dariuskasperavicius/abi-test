@@ -4,7 +4,8 @@
 
 npm install
 
-###Problem
+Problem
+=======
 * `node index.js` gives undefined
 * `node example.js` gives normal output
 
