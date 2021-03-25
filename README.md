@@ -5,8 +5,8 @@
 npm install
 
 ###Problem
-`node index.js` gives undefined
-`node example.js` gives normal output
+* `node index.js` gives undefined
+* `node example.js` gives normal output
 
 
 ### Links
